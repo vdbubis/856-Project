@@ -10,7 +10,7 @@ pip install numpy
 pip install gym
 ```
 
-### Architectural Details
+### File Descriptions
 
 There are three python files in this repository. These are explained below:
 * poissonTasks.py: The implementation of our environment
